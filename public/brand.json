@@ -1,0 +1,26 @@
+[
+    {
+      "brandName": "Rolls-Royce",
+      "brandImage": "https://i.ibb.co/fQVR4pp/1.png"
+    },
+    {
+      "brandName": "BMW",
+      "brandImage": "https://i.ibb.co/p4bpW3q/2.png"
+    },
+    {
+      "brandName": "Tesla",
+      "brandImage": "https://i.ibb.co/gV2PB4g/3.png"
+    },
+    {
+      "brandName": "Nissan",
+      "brandImage": "https://i.ibb.co/zxSwjDN/4.png"
+    },
+    {
+      "brandName": "Hyundai",
+      "brandImage": "https://i.ibb.co/vjknTNr/5.png"
+    },
+    {
+      "brandName": "Toyota",
+      "brandImage": "https://i.ibb.co/6ykk9Y1/6.png"
+    }
+  ]
