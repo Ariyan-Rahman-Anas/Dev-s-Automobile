@@ -1,6 +1,6 @@
 # Dev's Automobile
 
-**Description:** A React-based platform offering programming courses, providing a comprehensive learning experience with diverse modules, projects, and real-world applications for aspiring developers.
+**Description:** Explore the world of automotive excellence with Dev's Automobile – a cutting-edge React app crafted on the MERN stack. Offering the ultimate car-selling experience, this platform is designed to connect buyers and sellers seamlessly. Dive into a user-friendly interface that redefines the way you buy and sell cars, ensuring a smooth and enjoyable journey in the world of automobiles.
 
 
 ### Key Features: 
